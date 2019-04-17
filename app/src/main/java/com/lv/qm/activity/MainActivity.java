@@ -30,7 +30,6 @@ import butterknife.OnClick;
 
 import static android.app.Notification.VISIBILITY_SECRET;
 
-
 /**
  * 作者：created by albert on 2018/9/18 16:27
  * 邮箱：lvzhongdi@icloud.com
