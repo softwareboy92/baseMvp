@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".activity.MainActivity">
+
+        <TextView
+            android:id="@+id/textview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/shape_button_reply_button"
+            android:fontFamily="@font/aclonica"
+            android:gravity="center"
+            android:lineSpacingExtra="10sp"
+            android:padding="5dp"
+            android:text="聊天页面和表情"
+            android:textAppearance="@android:style/TextAppearance.Holo.Small"
+            android:textSize="16sp"
+            android:typeface="normal"
+            android:visibility="visible" />
+
+
+        <TextView
+            android:id="@+id/textview1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/shape_button_reply_button"
+            android:fontFamily="@font/aclonica"
+            android:gravity="center"
+            android:lineSpacingExtra="10sp"
+            android:padding="5dp"
+            android:text="仿QQ兴趣部落弹出效果"
+            android:textAppearance="@android:style/TextAppearance.Holo.Small"
+            android:textSize="16sp"
+            android:typeface="normal"
+            android:visibility="visible" />
+
+
+        <TextView
+            android:id="@+id/textview2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/shape_button_reply_button"
+            android:fontFamily="@font/aclonica"
+            android:gravity="center"
+            android:lineSpacingExtra="10sp"
+            android:text="ViewPager滑动翻书"
+            android:padding="5dp"
+            android:textAppearance="@android:style/TextAppearance.Holo.Small"
+            android:textSize="16sp"
+            android:typeface="normal"
+            android:visibility="visible" />
+
+
+        <TextView
+            android:id="@+id/textview3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/shape_button_reply_button"
+            android:fontFamily="@font/aclonica"
+            android:gravity="center"
+            android:lineSpacingExtra="10sp"
+            android:padding="5dp"
+            android:text="ViewPagerdemo 滚动效果"
+            android:textAppearance="@android:style/TextAppearance.Holo.Small"
+            android:textSize="16sp"
+            android:typeface="normal"
+            android:visibility="visible" />
+
+
+        <TextView
+            android:id="@+id/textview4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/shape_button_reply_button"
+            android:fontFamily="@font/aclonica"
+            android:gravity="center"
+            android:lineSpacingExtra="10sp"
+            android:padding="5dp"
+            android:text="项目实战ViewPage"
+            android:textAppearance="@android:style/TextAppearance.Holo.Small"
+            android:textSize="16sp"
+            android:typeface="normal"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/textview5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/shape_button_reply_button"
+            android:fontFamily="@font/aclonica"
+            android:gravity="center"
+            android:lineSpacingExtra="10sp"
+            android:padding="5dp"
+            android:text="DialogFragment"
+            android:textAppearance="@android:style/TextAppearance.Holo.Small"
+            android:textSize="16sp"
+            android:typeface="normal"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/textview6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/shape_button_reply_button"
+            android:fontFamily="@font/aclonica"
+            android:gravity="center"
+            android:lineSpacingExtra="10sp"
+            android:padding="5dp"
+            android:text="RecycleView"
+            android:textAppearance="@android:style/TextAppearance.Holo.Small"
+            android:textSize="16sp"
+            android:typeface="normal"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/textview7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/shape_button_reply_button"
+            android:fontFamily="@font/aclonica"
+            android:gravity="center"
+            android:lineSpacingExtra="10sp"
+            android:padding="5dp"
+            android:text="Notifaction"
+            android:textAppearance="@android:style/TextAppearance.Holo.Small"
+            android:textSize="16sp"
+            android:typeface="normal"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/textview8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/shape_button_reply_button"
+            android:fontFamily="@font/aclonica"
+            android:gravity="center"
+            android:lineSpacingExtra="10sp"
+            android:padding="5dp"
+            android:text="扫一扫"
+            android:textAppearance="@android:style/TextAppearance.Holo.Small"
+            android:textSize="16sp"
+            android:typeface="normal"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/textview9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/shape_button_reply_button"
+            android:fontFamily="@font/aclonica"
+            android:gravity="center"
+            android:lineSpacingExtra="10sp"
+            android:padding="5dp"
+            android:text="TabLayoutDemo"
+            android:textAppearance="@android:style/TextAppearance.Holo.Small"
+            android:textSize="16sp"
+            android:typeface="normal"
+            android:visibility="visible" />
+
+
+        <TextView
+            android:id="@+id/textview10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/shape_button_reply_button"
+            android:fontFamily="@font/aclonica"
+            android:gravity="center"
+            android:lineSpacingExtra="10sp"
+            android:padding="5dp"
+            android:text="图片选择器"
+            android:textAppearance="@android:style/TextAppearance.Holo.Small"
+            android:textSize="16sp"
+            android:typeface="normal"
+            android:visibility="visible" />
+
+
+        <TextView
+            android:id="@+id/textview11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/shape_button_reply_button"
+            android:fontFamily="@font/aclonica"
+            android:gravity="center"
+            android:lineSpacingExtra="10sp"
+            android:padding="5dp"
+            android:text="动态广播刷新页面"
+            android:textAppearance="@android:style/TextAppearance.Holo.Small"
+            android:textSize="16sp"
+            android:typeface="normal"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/textview12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/shape_button_reply_button"
+            android:fontFamily="@font/aclonica"
+            android:gravity="center"
+            android:lineSpacingExtra="10sp"
+            android:padding="5dp"
+            android:text="IntentService后台运行"
+            android:textAppearance="@android:style/TextAppearance.Holo.Small"
+            android:textSize="16sp"
+            android:typeface="normal"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/textview13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/shape_button_reply_button"
+            android:fontFamily="@font/aclonica"
+            android:gravity="center"
+            android:lineSpacingExtra="10sp"
+            android:padding="5dp"
+            android:text="个推Demo的推送服务"
+            android:textAppearance="@android:style/TextAppearance.Holo.Small"
+            android:textSize="16sp"
+            android:typeface="normal"
+            android:visibility="visible" />
+
+
+        <TextView
+            android:id="@+id/textview14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/shape_button_reply_button"
+            android:fontFamily="@font/aclonica"
+            android:gravity="center"
+            android:lineSpacingExtra="10sp"
+            android:padding="5dp"
+            android:text="侧滑退出Activity"
+            android:textAppearance="@android:style/TextAppearance.Holo.Small"
+            android:textSize="16sp"
+            android:typeface="normal"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/textview15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/shape_button_reply_button"
+            android:fontFamily="@font/aclonica"
+            android:gravity="center"
+            android:lineSpacingExtra="10sp"
+            android:padding="5dp"
+            android:text="Fragment Add Aleardy"
+            android:textAppearance="@android:style/TextAppearance.Holo.Small"
+            android:textSize="16sp"
+            android:typeface="normal"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/textview16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/shape_button_reply_button"
+            android:fontFamily="@font/aclonica"
+            android:gravity="center"
+            android:lineSpacingExtra="10sp"
+            android:padding="5dp"
+            android:text="Notifaction 8.0"
+            android:textAppearance="@android:style/TextAppearance.Holo.Small"
+            android:textSize="16sp"
+            android:typeface="normal"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/textview17"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/shape_button_reply_button"
+            android:fontFamily="@font/aclonica"
+            android:gravity="center"
+            android:lineSpacingExtra="10sp"
+            android:padding="5dp"
+            android:text="Audio and Mudio"
+            android:textAppearance="@android:style/TextAppearance.Holo.Small"
+            android:textSize="16sp"
+            android:typeface="normal"
+            android:visibility="visible" />
+
+
+        <TextView
+            android:id="@+id/textview18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/shape_button_reply_button"
+            android:fontFamily="@font/aclonica"
+            android:gravity="center"
+            android:lineSpacingExtra="10sp"
+            android:padding="5dp"
+            android:text="自定义View"
+            android:textAppearance="@android:style/TextAppearance.Holo.Small"
+            android:textSize="16sp"
+            android:typeface="normal"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/textview19"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/shape_button_reply_button"
+            android:fontFamily="@font/aclonica"
+            android:gravity="center"
+            android:lineSpacingExtra="10sp"
+            android:padding="5dp"
+            android:text="WebSocket"
+            android:textAppearance="@android:style/TextAppearance.Holo.Small"
+            android:textSize="16sp"
+            android:typeface="normal"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/textview20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/shape_button_reply_button"
+            android:fontFamily="@font/aclonica"
+            android:gravity="center"
+            android:lineSpacingExtra="10sp"
+            android:padding="5dp"
+            android:text="CustomDialog"
+            android:textAppearance="@android:style/TextAppearance.Holo.Small"
+            android:textSize="16sp"
+            android:typeface="normal"
+            android:visibility="visible" />
+
+    </LinearLayout>
+</ScrollView>

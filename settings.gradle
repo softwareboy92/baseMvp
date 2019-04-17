@@ -1,0 +1,1 @@
+include ':app', ':libbasemvp', ':libviewpager', ':libscan', ':libphotos', ':libsocket', ':libcustomdialog'

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.salient.artvideoplayer:artplayer-java:0.6.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/artplayer-java-0.6.0.aar/9c32931b502d58f03a1e51eace8091f3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/artplayer-java-0.6.0.aar/9c32931b502d58f03a1e51eace8091f3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.salient.artvideoplayer/artplayer-java/0.6.0/24adfaa4437ecd1d49ac5eb6f6726bd8d592f48f/artplayer-java-0.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

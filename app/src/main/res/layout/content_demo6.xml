@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.Demo6Activity">
+
+
+    <com.lv.qm.weight.VerificationCodeView
+        android:id="@+id/verificationcodeview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:orientation="horizontal"
+        app:vcv_et_bg="@drawable/et_login_code"
+        app:vcv_et_cursor="@drawable/et_cursor"
+        app:vcv_et_inputType="textPassword"
+        app:vcv_et_number="4"
+        app:vcv_et_text_color="@android:color/black"
+        app:vcv_et_text_size="6sp" />
+
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseMvp.iml" filepath="$PROJECT_DIR$/baseMvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libbasemvp/libbasemvp.iml" filepath="$PROJECT_DIR$/libbasemvp/libbasemvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libcustomdialog/libcustomdialog.iml" filepath="$PROJECT_DIR$/libcustomdialog/libcustomdialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libphotos/libphotos.iml" filepath="$PROJECT_DIR$/libphotos/libphotos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libscan/libscan.iml" filepath="$PROJECT_DIR$/libscan/libscan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libsocket/libsocket.iml" filepath="$PROJECT_DIR$/libsocket/libsocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libviewpager/libviewpager.iml" filepath="$PROJECT_DIR$/libviewpager/libviewpager.iml" />
+    </modules>
+  </component>
+</project>
